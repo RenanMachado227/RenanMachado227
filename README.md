@@ -44,4 +44,3 @@ Hello!, I'm Renan Machado.
   
 </div>
 
-![snake gif](https://github.com/RenanMachado227/RenanMachado227/blob/output/github-contribution-grid-snake.svg)
